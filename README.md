@@ -3,11 +3,11 @@
 
 <img src="https://cdn.dribbble.com/users/1857592/screenshots/3848396/character-typing.gif" align="right" width="500">
 
-- 🔭 I’m currently workig as a freelancer
+- 🔭 I’m currently working as a freelancer
 
 - 🎓 B.Tech in Computer Science (2018-2022) from **JAYPEE UNIVERSITY OF ENGINEERING AND TECHNOLOGY**
 
-- 🌱 I’m currently working on my **problem solving skills**
+- 🌱 I’m currently working on my **problem solving skills** and some projects on **MERN STACK**
 
 - 👨‍💻 All of my projects are available at [https://github.com/negiaditi](https://github.com/negiaditi)
 
