@@ -7,7 +7,7 @@
 
 - 🎓 B.Tech in Computer Science (2018-2022) from **JAYPEE UNIVERSITY OF ENGINEERING AND TECHNOLOGY**
 
-- 🌱 I’m currently working on my **problem solving skills** and some projects on **MERN STACK**
+- 🌱 I’m currently working on my **problem solving skills**
 
 - 👨‍💻 All of my projects are available at [https://github.com/negiaditi](https://github.com/negiaditi)
 
