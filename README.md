@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aditi</h1>
-<h3 align="center">A passionate developer from India</h3><br /><br/>
+<h3 align="center">A passionate developer </h3><br /><br/>
 
 <img src="https://cdn.dribbble.com/users/1857592/screenshots/3848396/character-typing.gif" align="right" width="500">
 
