@@ -1,20 +1,18 @@
 <h1 align="center">Hi 👋, I'm Aditi</h1>
-<h3 align="center">A passionate developer </h3><br /><br/>
+<h3 align="center">A passionate Data Analyst </h3><br /><br/>
 
 <img src="https://cdn.dribbble.com/users/1857592/screenshots/3848396/character-typing.gif" align="right" width="500">
 
-- 🔭 I’m currently working as a freelancer
+- 🔭 I’m currently working as a Data Anlyst at **HCL Technologies, Noida**
 
 - 🎓 B.Tech in Computer Science (2018-2022) from **JAYPEE UNIVERSITY OF ENGINEERING AND TECHNOLOGY**
 
-- 🌱 I’m currently working on my **problem solving skills**
-
 - 👨‍💻 All of my projects are available at [https://github.com/negiaditi](https://github.com/negiaditi)
 
-- ✨ Interests are **front-end Development** and Listening to **music**.
+- ✨ Interests are **Data Analytics** and Listening to **music**.
 
 
-- 💬 Ask me about **front-end development**
+- 💬 Ask me about **Data Visualizations and Analysis**
 <br /><br/>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
