@@ -3,7 +3,7 @@
 
 <img src="https://cdn.dribbble.com/users/1857592/screenshots/3848396/character-typing.gif" align="right" width="500">
 
-- 🔭 I’m currently working as a Data Anlyst at **HCL Technologies, Noida**
+- 🔭 I’m currently working as a Data Analyst at **HCL Technologies, Noida**
 
 - 🎓 B.Tech in Computer Science (2018-2022) from **JAYPEE UNIVERSITY OF ENGINEERING AND TECHNOLOGY**
 
